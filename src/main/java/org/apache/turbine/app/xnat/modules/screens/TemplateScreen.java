@@ -1,5 +1,5 @@
 /*
- * xnat-template: org.apache.turbine.app.xnat.modules.screens.TemplateScreen
+ * xnat-restclient: org.apache.turbine.app.xnat.modules.screens.TemplateScreen
  * XNAT http://www.xnat.org
  * Copyright (c) 2017, Washington University School of Medicine
  * All Rights Reserved

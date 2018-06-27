@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ xnat-template: xnat-template-plugin/src/main/resources/schemas/template/template.xsd
+  ~ xnat-restclient: xnat-restclient-plugin/src/main/resources/schemas/restclient/restclient.xsd
   ~ XNAT http://www.xnat.org
   ~ Copyright (c) 2017, Washington University School of Medicine
   ~ All Rights Reserved

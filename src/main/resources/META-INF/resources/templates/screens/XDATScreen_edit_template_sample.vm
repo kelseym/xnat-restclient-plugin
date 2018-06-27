@@ -90,9 +90,9 @@ window.currentLabel="$!om.getLabel()";
 <script type="text/javascript">
     function validateForm() {
         var today = new Date();
-        document.getElementById('template:sample.date.month').value = today.getMonth();
-        document.getElementById('template:sample.date.date').value = today.getDate();
-        document.getElementById('template:sample.date.year').value = today.getFullYear();
+        document.getElementById('restclient:sample.date.month').value = today.getMonth();
+        document.getElementById('restclient:sample.date.date').value = today.getDate();
+        document.getElementById('restclient:sample.date.year').value = today.getFullYear();
 
         document.sampleForm.submit();
         return true;
